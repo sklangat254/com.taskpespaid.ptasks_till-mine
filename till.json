@@ -21,10 +21,10 @@
   "showadtime" : "all",
   "activateacc" : "200",
   "islive" : "live",
-  "badgelimitamount" : "60",
+  "badgelimitamount" : "3500",
   "showbadgeornot" : "True",
   "till" : ".",
-  "payhero" : "https://payhero-apii.onrender.com",
+  "payhero" : "9283776",
   "payamount5" : "270",
-  "payhero1" : "https://payhero-apii.onrender.com"
+  "payhero1" : "REMOTE KE CYBERS"
 }
